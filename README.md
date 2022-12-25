@@ -1,6 +1,9 @@
 # Notes App - Back-End
 
-notes-app-back-end (root directory)
+```bash
+🗂️ notes-app-back-end (root directory)
+.
+├── Notes API Test
 ├── node_modules
 ├── src
 │   ├── handler.js
@@ -8,5 +11,9 @@ notes-app-back-end (root directory)
 │   ├── routes.js
 │   └── server.js
 ├── .eslintrc.json
+├── .gitignore
+├── README.md
 ├── package-lock.json
 └── package.json
+
+```
