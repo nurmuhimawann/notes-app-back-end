@@ -1,2 +1,6 @@
+.idea
 node_modules
-notes-api-webserver.pem 
+.env
+.prod.env
+package-lock.json
+notes-api-webserver.pem
