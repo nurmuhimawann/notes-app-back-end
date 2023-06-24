@@ -6,7 +6,6 @@ const Jwt = require('@hapi/jwt');
 
 // notes
 const notes = require('./api/notes');
-// const NotesService = require('./services/inMemory/NotesService');
 const NotesService = require('./services/postgres/NotesService');
 const NotesValidator = require('./validator/notes');
 
